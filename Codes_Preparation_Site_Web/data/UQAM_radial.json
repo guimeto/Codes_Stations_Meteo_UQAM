@@ -1,0 +1,3665 @@
+{
+  "values": [
+    {
+      "index": 0, 
+      "min": -5.7, 
+      "max": 2.9, 
+      "recLow": "-23.22", 
+      "recHigh": "0.49", 
+      "avgLow": "-10.62", 
+      "date": "1-Jan", 
+      "avgHigh": "-5.28"
+    }, 
+    {
+      "index": 1, 
+      "min": -14.4, 
+      "max": -7.2, 
+      "recLow": "-20.81", 
+      "recHigh": "1.56", 
+      "avgLow": "-9.33", 
+      "date": "2-Jan", 
+      "avgHigh": "-3.29"
+    }, 
+    {
+      "index": 2, 
+      "min": -12.9, 
+      "max": -4.3, 
+      "recLow": "-15.4", 
+      "recHigh": "0.56", 
+      "avgLow": "-9.61", 
+      "date": "3-Jan", 
+      "avgHigh": "-4.25"
+    }, 
+    {
+      "index": 3, 
+      "min": -4.5, 
+      "max": 3.9, 
+      "recLow": "-17.98", 
+      "recHigh": "3.32", 
+      "avgLow": "-11.15", 
+      "date": "4-Jan", 
+      "avgHigh": "-1.94"
+    }, 
+    {
+      "index": 4, 
+      "min": 0.0, 
+      "max": 4.2, 
+      "recLow": "-20.31", 
+      "recHigh": "3.28", 
+      "avgLow": "-16.25", 
+      "date": "5-Jan", 
+      "avgHigh": "-4.03"
+    }, 
+    {
+      "index": 5, 
+      "min": -6.2, 
+      "max": 3.9, 
+      "recLow": "-23.38", 
+      "recHigh": "0.26", 
+      "avgLow": "-15.53", 
+      "date": "6-Jan", 
+      "avgHigh": "-8.35"
+    }, 
+    {
+      "index": 6, 
+      "min": -13.1, 
+      "max": -7.9, 
+      "recLow": "-23.1", 
+      "recHigh": "1.1", 
+      "avgLow": "-14.45", 
+      "date": "7-Jan", 
+      "avgHigh": "-8.67"
+    }, 
+    {
+      "index": 7, 
+      "min": -11.5, 
+      "max": 2.3, 
+      "recLow": "-26.21", 
+      "recHigh": "0.07", 
+      "avgLow": "-14.83", 
+      "date": "8-Jan", 
+      "avgHigh": "-6.69"
+    }, 
+    {
+      "index": 8, 
+      "min": -1.8, 
+      "max": 2.0, 
+      "recLow": "-18.12", 
+      "recHigh": "4.47", 
+      "avgLow": "-8.52", 
+      "date": "9-Jan", 
+      "avgHigh": "-3.21"
+    }, 
+    {
+      "index": 9, 
+      "min": -8.4, 
+      "max": 0.9, 
+      "recLow": "-12.47", 
+      "recHigh": "7.81", 
+      "avgLow": "-6.82", 
+      "date": "10-Jan", 
+      "avgHigh": "-1.48"
+    }, 
+    {
+      "index": 10, 
+      "min": -17.9, 
+      "max": -9.3, 
+      "recLow": "-9.9", 
+      "recHigh": "8.07", 
+      "avgLow": "-5.82", 
+      "date": "11-Jan", 
+      "avgHigh": "4.76"
+    }, 
+    {
+      "index": 11, 
+      "min": -16.6, 
+      "max": -12.5, 
+      "recLow": "-10.05", 
+      "recHigh": "12.61", 
+      "avgLow": "-0.61", 
+      "date": "12-Jan", 
+      "avgHigh": "4.47"
+    }, 
+    {
+      "index": 12, 
+      "min": -14.4, 
+      "max": -9.6, 
+      "recLow": "-20.35", 
+      "recHigh": "5.64", 
+      "avgLow": "-10.98", 
+      "date": "13-Jan", 
+      "avgHigh": "-0.43"
+    }, 
+    {
+      "index": 13, 
+      "min": -12.2, 
+      "max": -7.6, 
+      "recLow": "-20.07", 
+      "recHigh": "5.91", 
+      "avgLow": "-12.99", 
+      "date": "14-Jan", 
+      "avgHigh": "-7.84"
+    }, 
+    {
+      "index": 14, 
+      "min": -8.4, 
+      "max": -2.6, 
+      "recLow": "-20.39", 
+      "recHigh": "3.86", 
+      "avgLow": "-12.13", 
+      "date": "15-Jan", 
+      "avgHigh": "-6.42"
+    }, 
+    {
+      "index": 15, 
+      "min": -7.7, 
+      "max": 1.9, 
+      "recLow": "-14.37", 
+      "recHigh": "2.95", 
+      "avgLow": "-9.46", 
+      "date": "16-Jan", 
+      "avgHigh": "-1.71"
+    }, 
+    {
+      "index": 16, 
+      "min": -18.8, 
+      "max": -11.1, 
+      "recLow": "-21.67", 
+      "recHigh": "1.57", 
+      "avgLow": "-9.62", 
+      "date": "17-Jan", 
+      "avgHigh": "-3.95"
+    }, 
+    {
+      "index": 17, 
+      "min": -14.3, 
+      "max": -7.0, 
+      "recLow": "-16.64", 
+      "recHigh": "3.7", 
+      "avgLow": "-8.21", 
+      "date": "18-Jan", 
+      "avgHigh": "-0.7"
+    }, 
+    {
+      "index": 18, 
+      "min": -22.8, 
+      "max": -7.7, 
+      "recLow": "-16.47", 
+      "recHigh": "2.68", 
+      "avgLow": "-6.24", 
+      "date": "19-Jan", 
+      "avgHigh": "-1.32"
+    }, 
+    {
+      "index": 19, 
+      "min": -21.6, 
+      "max": -15.0, 
+      "recLow": "-17.78", 
+      "recHigh": "5.06", 
+      "avgLow": "-8.52", 
+      "date": "20-Jan", 
+      "avgHigh": "-1.45"
+    }, 
+    {
+      "index": 20, 
+      "min": -20.3, 
+      "max": -15.1, 
+      "recLow": "-22.61", 
+      "recHigh": "4.56", 
+      "avgLow": "-10.14", 
+      "date": "21-Jan", 
+      "avgHigh": "-4.96"
+    }, 
+    {
+      "index": 21, 
+      "min": -20.9, 
+      "max": -12.8, 
+      "recLow": "-22.34", 
+      "recHigh": "3.01", 
+      "avgLow": "-10.6", 
+      "date": "22-Jan", 
+      "avgHigh": "-5.31"
+    }, 
+    {
+      "index": 22, 
+      "min": -13.6, 
+      "max": -2.2, 
+      "recLow": "-21.84", 
+      "recHigh": "0.61", 
+      "avgLow": "-10.33", 
+      "date": "23-Jan", 
+      "avgHigh": "-4.68"
+    }, 
+    {
+      "index": 23, 
+      "min": 0.5, 
+      "max": 4.9, 
+      "recLow": "-22.9", 
+      "recHigh": "3.65", 
+      "avgLow": "-10.0", 
+      "date": "24-Jan", 
+      "avgHigh": "-3.75"
+    }, 
+    {
+      "index": 24, 
+      "min": -8.0, 
+      "max": 0.6, 
+      "recLow": "-15.51", 
+      "recHigh": "-0.54", 
+      "avgLow": "-10.31", 
+      "date": "25-Jan", 
+      "avgHigh": "-3.37"
+    }, 
+    {
+      "index": 25, 
+      "min": -12.2, 
+      "max": -7.1, 
+      "recLow": "-21.4", 
+      "recHigh": "5.04", 
+      "avgLow": "-10.51", 
+      "date": "26-Jan", 
+      "avgHigh": "-3.71"
+    }, 
+    {
+      "index": 26, 
+      "min": -12.7, 
+      "max": -0.4, 
+      "recLow": "-16.13", 
+      "recHigh": "5.36", 
+      "avgLow": "-10.09", 
+      "date": "27-Jan", 
+      "avgHigh": "-1.19"
+    }, 
+    {
+      "index": 27, 
+      "min": -19.3, 
+      "max": -6.8, 
+      "recLow": "-18.77", 
+      "recHigh": "6.73", 
+      "avgLow": "-7.76", 
+      "date": "28-Jan", 
+      "avgHigh": "-1.82"
+    }, 
+    {
+      "index": 28, 
+      "min": -18.0, 
+      "max": -8.3, 
+      "recLow": "-13.83", 
+      "recHigh": "1.9", 
+      "avgLow": "-7.92", 
+      "date": "29-Jan", 
+      "avgHigh": "-2.44"
+    }, 
+    {
+      "index": 29, 
+      "min": -10.4, 
+      "max": -5.3, 
+      "recLow": "-11.04", 
+      "recHigh": "-0.52", 
+      "avgLow": "-10.01", 
+      "date": "30-Jan", 
+      "avgHigh": "-2.77"
+    }, 
+    {
+      "index": 30, 
+      "min": -15.5, 
+      "max": -13.2, 
+      "recLow": "-21.61", 
+      "recHigh": "5.51", 
+      "avgLow": "-11.17", 
+      "date": "31-Jan", 
+      "avgHigh": "-3.86"
+    }, 
+    {
+      "index": 31, 
+      "min": -15.8, 
+      "max": -11.1, 
+      "recLow": "-16.08", 
+      "recHigh": "8.73", 
+      "avgLow": "-8.14", 
+      "date": "1-Feb", 
+      "avgHigh": "-1.51"
+    }, 
+    {
+      "index": 32, 
+      "min": -13.0, 
+      "max": -5.4, 
+      "recLow": "-22.56", 
+      "recHigh": "3.99", 
+      "avgLow": "-11.64", 
+      "date": "2-Feb", 
+      "avgHigh": "-2.66"
+    }, 
+    {
+      "index": 33, 
+      "min": -13.2, 
+      "max": -5.9, 
+      "recLow": "-20.62", 
+      "recHigh": "7.93", 
+      "avgLow": "-12.25", 
+      "date": "3-Feb", 
+      "avgHigh": "-3.27"
+    }, 
+    {
+      "index": 34, 
+      "min": -10.9, 
+      "max": -2.5, 
+      "recLow": "-10.17", 
+      "recHigh": "9.49", 
+      "avgLow": "-6.81", 
+      "date": "4-Feb", 
+      "avgHigh": "-0.63"
+    }, 
+    {
+      "index": 35, 
+      "min": -4.2, 
+      "max": 7.9, 
+      "recLow": "-14.38", 
+      "recHigh": "2.38", 
+      "avgLow": "-9.26", 
+      "date": "5-Feb", 
+      "avgHigh": "-1.58"
+    }, 
+    {
+      "index": 36, 
+      "min": -10.7, 
+      "max": -5.2, 
+      "recLow": "-18.35", 
+      "recHigh": "0.3", 
+      "avgLow": "-12.22", 
+      "date": "6-Feb", 
+      "avgHigh": "-4.66"
+    }, 
+    {
+      "index": 37, 
+      "min": -6.8, 
+      "max": -2.5, 
+      "recLow": "-13.95", 
+      "recHigh": "1.51", 
+      "avgLow": "-11.23", 
+      "date": "7-Feb", 
+      "avgHigh": "-5.88"
+    }, 
+    {
+      "index": 38, 
+      "min": -3.6, 
+      "max": 8.0, 
+      "recLow": "-18.76", 
+      "recHigh": "4.31", 
+      "avgLow": "-11.94", 
+      "date": "8-Feb", 
+      "avgHigh": "-5.29"
+    }, 
+    {
+      "index": 39, 
+      "min": -10.8, 
+      "max": -4.3, 
+      "recLow": "-15.69", 
+      "recHigh": "-4.45", 
+      "avgLow": "-12.16", 
+      "date": "9-Feb", 
+      "avgHigh": "-6.83"
+    }, 
+    {
+      "index": 40, 
+      "min": -11.6, 
+      "max": -5.9, 
+      "recLow": "-16.12", 
+      "recHigh": "-3.94", 
+      "avgLow": "-10.68", 
+      "date": "10-Feb", 
+      "avgHigh": "-6.5"
+    }, 
+    {
+      "index": 41, 
+      "min": -11.9, 
+      "max": -6.4, 
+      "recLow": "-17.26", 
+      "recHigh": "-1.03", 
+      "avgLow": "-14.16", 
+      "date": "11-Feb", 
+      "avgHigh": "-6.12"
+    }, 
+    {
+      "index": 42, 
+      "min": -16.4, 
+      "max": -9.0, 
+      "recLow": "-18.1", 
+      "recHigh": "3.19", 
+      "avgLow": "-13.14", 
+      "date": "12-Feb", 
+      "avgHigh": "-5.33"
+    }, 
+    {
+      "index": 43, 
+      "min": -9.7, 
+      "max": 1.0, 
+      "recLow": "-25.23", 
+      "recHigh": "-2.7", 
+      "avgLow": "-16.02", 
+      "date": "13-Feb", 
+      "avgHigh": "-6.28"
+    }, 
+    {
+      "index": 44, 
+      "min": -6.2, 
+      "max": -1.5, 
+      "recLow": "-27.11", 
+      "recHigh": "5.67", 
+      "avgLow": "-13.4", 
+      "date": "14-Feb", 
+      "avgHigh": "-6.65"
+    }, 
+    {
+      "index": 45, 
+      "min": -5.7, 
+      "max": 5.4, 
+      "recLow": "-19.83", 
+      "recHigh": "6.82", 
+      "avgLow": "-10.14", 
+      "date": "15-Feb", 
+      "avgHigh": "-4.31"
+    }, 
+    {
+      "index": 46, 
+      "min": -4.7, 
+      "max": 2.5, 
+      "recLow": "-22.78", 
+      "recHigh": "6.9", 
+      "avgLow": "-10.17", 
+      "date": "16-Feb", 
+      "avgHigh": "-3.38"
+    }, 
+    {
+      "index": 47, 
+      "min": -11.7, 
+      "max": -5.7, 
+      "recLow": "-18.88", 
+      "recHigh": "0.35", 
+      "avgLow": "-10.46", 
+      "date": "17-Feb", 
+      "avgHigh": "-5.22"
+    }, 
+    {
+      "index": 48, 
+      "min": -12.3, 
+      "max": -6.6, 
+      "recLow": "-15.84", 
+      "recHigh": "7.17", 
+      "avgLow": "-10.43", 
+      "date": "18-Feb", 
+      "avgHigh": "-1.04"
+    }, 
+    {
+      "index": 49, 
+      "min": -15.0, 
+      "max": -7.1, 
+      "recLow": "-15.79", 
+      "recHigh": "8.77", 
+      "avgLow": "-5.87", 
+      "date": "19-Feb", 
+      "avgHigh": "1.65"
+    }, 
+    {
+      "index": 50, 
+      "min": -10.5, 
+      "max": -4.7, 
+      "recLow": "-19.49", 
+      "recHigh": "4.82", 
+      "avgLow": "-4.92", 
+      "date": "20-Feb", 
+      "avgHigh": "0.59"
+    }, 
+    {
+      "index": 51, 
+      "min": -6.9, 
+      "max": 4.0, 
+      "recLow": "-15.58", 
+      "recHigh": "12.85", 
+      "avgLow": "-4.23", 
+      "date": "21-Feb", 
+      "avgHigh": "3.74"
+    }, 
+    {
+      "index": 52, 
+      "min": -4.5, 
+      "max": 2.7, 
+      "recLow": "-13.35", 
+      "recHigh": "7.29", 
+      "avgLow": "-4.73", 
+      "date": "22-Feb", 
+      "avgHigh": "1.86"
+    }, 
+    {
+      "index": 53, 
+      "min": -3.5, 
+      "max": 1.0, 
+      "recLow": "-20.9", 
+      "recHigh": "13.68", 
+      "avgLow": "-7.62", 
+      "date": "23-Feb", 
+      "avgHigh": "1.86"
+    }, 
+    {
+      "index": 54, 
+      "min": -1.8, 
+      "max": 4.6, 
+      "recLow": "-20.69", 
+      "recHigh": "11.12", 
+      "avgLow": "-6.44", 
+      "date": "24-Feb", 
+      "avgHigh": "0.94"
+    }, 
+    {
+      "index": 55, 
+      "min": -7.7, 
+      "max": 5.2, 
+      "recLow": "-12.42", 
+      "recHigh": "9.15", 
+      "avgLow": "-4.82", 
+      "date": "25-Feb", 
+      "avgHigh": "0.37"
+    }, 
+    {
+      "index": 56, 
+      "min": -15.4, 
+      "max": -8.3, 
+      "recLow": "-16.42", 
+      "recHigh": "5.87", 
+      "avgLow": "-8.57", 
+      "date": "26-Feb", 
+      "avgHigh": "-1.86"
+    }, 
+    {
+      "index": 57, 
+      "min": -16.7, 
+      "max": -11.7, 
+      "recLow": "-16.03", 
+      "recHigh": "9.28", 
+      "avgLow": "-8.34", 
+      "date": "27-Feb", 
+      "avgHigh": "-0.06"
+    }, 
+    {
+      "index": 58, 
+      "min": -15.4, 
+      "max": -6.4, 
+      "recLow": "-17.9", 
+      "recHigh": "9.04", 
+      "avgLow": "-7.47", 
+      "date": "28-Feb", 
+      "avgHigh": "1.2"
+    }, 
+    {
+      "index": 59, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-14.25", 
+      "recHigh": "9.17", 
+      "avgLow": "-5.65", 
+      "date": "29-Feb", 
+      "avgHigh": "1.38"
+    }, 
+    {
+      "index": 60, 
+      "min": -10.0, 
+      "max": -1.8, 
+      "recLow": "-14.75", 
+      "recHigh": "0.27", 
+      "avgLow": "-14.75", 
+      "date": "1-Mar", 
+      "avgHigh": "0.27"
+    }, 
+    {
+      "index": 61, 
+      "min": -9.1, 
+      "max": -0.6, 
+      "recLow": "-11.49", 
+      "recHigh": "6.52", 
+      "avgLow": "-7.7", 
+      "date": "2-Mar", 
+      "avgHigh": "-0.95"
+    }, 
+    {
+      "index": 62, 
+      "min": -4.8, 
+      "max": -0.1, 
+      "recLow": "-18.71", 
+      "recHigh": "6.81", 
+      "avgLow": "-11.28", 
+      "date": "3-Mar", 
+      "avgHigh": "-4.91"
+    }, 
+    {
+      "index": 63, 
+      "min": -5.2, 
+      "max": -0.5, 
+      "recLow": "-17.97", 
+      "recHigh": "4.44", 
+      "avgLow": "-10.64", 
+      "date": "4-Mar", 
+      "avgHigh": "-3.98"
+    }, 
+    {
+      "index": 64, 
+      "min": -11.5, 
+      "max": -5.3, 
+      "recLow": "-16.35", 
+      "recHigh": "3.19", 
+      "avgLow": "-11.19", 
+      "date": "5-Mar", 
+      "avgHigh": "-2.58"
+    }, 
+    {
+      "index": 65, 
+      "min": -12.9, 
+      "max": -7.1, 
+      "recLow": "-16.38", 
+      "recHigh": "3.37", 
+      "avgLow": "-9.36", 
+      "date": "6-Mar", 
+      "avgHigh": "-1.79"
+    }, 
+    {
+      "index": 66, 
+      "min": -12.8, 
+      "max": -7.2, 
+      "recLow": "-11.38", 
+      "recHigh": "5.57", 
+      "avgLow": "-4.9", 
+      "date": "7-Mar", 
+      "avgHigh": "1.97"
+    }, 
+    {
+      "index": 67, 
+      "min": -10.5, 
+      "max": -0.6, 
+      "recLow": "-4.83", 
+      "recHigh": "10.99", 
+      "avgLow": "-0.41", 
+      "date": "8-Mar", 
+      "avgHigh": "3.67"
+    }, 
+    {
+      "index": 68, 
+      "min": -6.7, 
+      "max": -0.9, 
+      "recLow": "-7.14", 
+      "recHigh": "13.73", 
+      "avgLow": "-2.71", 
+      "date": "9-Mar", 
+      "avgHigh": "5.12"
+    }, 
+    {
+      "index": 69, 
+      "min": -6.6, 
+      "max": 1.7, 
+      "recLow": "-9.13", 
+      "recHigh": "12.92", 
+      "avgLow": "-3.14", 
+      "date": "10-Mar", 
+      "avgHigh": "4.37"
+    }, 
+    {
+      "index": 70, 
+      "min": 1.3, 
+      "max": 4.1, 
+      "recLow": "-20.67", 
+      "recHigh": "8.93", 
+      "avgLow": "-3.36", 
+      "date": "11-Mar", 
+      "avgHigh": "2.37"
+    }, 
+    {
+      "index": 71, 
+      "min": -4.8, 
+      "max": 0.5, 
+      "recLow": "-17.03", 
+      "recHigh": "11.16", 
+      "avgLow": "-6.75", 
+      "date": "12-Mar", 
+      "avgHigh": "2.69"
+    }, 
+    {
+      "index": 72, 
+      "min": -2.8, 
+      "max": 3.2, 
+      "recLow": "-14.95", 
+      "recHigh": "8.72", 
+      "avgLow": "-6.6", 
+      "date": "13-Mar", 
+      "avgHigh": "-0.53"
+    }, 
+    {
+      "index": 73, 
+      "min": 0.0, 
+      "max": 3.2, 
+      "recLow": "-12.88", 
+      "recHigh": "5.44", 
+      "avgLow": "-5.3", 
+      "date": "14-Mar", 
+      "avgHigh": "-0.04"
+    }, 
+    {
+      "index": 74, 
+      "min": 8.1, 
+      "max": 10.1, 
+      "recLow": "-7.93", 
+      "recHigh": "8.53", 
+      "avgLow": "-2.21", 
+      "date": "15-Mar", 
+      "avgHigh": "2.69"
+    }, 
+    {
+      "index": 75, 
+      "min": -1.3, 
+      "max": 8.0, 
+      "recLow": "-14.5", 
+      "recHigh": "7.64", 
+      "avgLow": "-6.39", 
+      "date": "16-Mar", 
+      "avgHigh": "0.8"
+    }, 
+    {
+      "index": 76, 
+      "min": -6.5, 
+      "max": -0.2, 
+      "recLow": "-13.66", 
+      "recHigh": "10.82", 
+      "avgLow": "-6.4", 
+      "date": "17-Mar", 
+      "avgHigh": "0.22"
+    }, 
+    {
+      "index": 77, 
+      "min": -6.8, 
+      "max": -0.1, 
+      "recLow": "-13.48", 
+      "recHigh": "5.76", 
+      "avgLow": "-9.53", 
+      "date": "18-Mar", 
+      "avgHigh": "-0.83"
+    }, 
+    {
+      "index": 78, 
+      "min": -6.1, 
+      "max": 1.7, 
+      "recLow": "-11.06", 
+      "recHigh": "4.17", 
+      "avgLow": "-8.81", 
+      "date": "19-Mar", 
+      "avgHigh": "0.56"
+    }, 
+    {
+      "index": 79, 
+      "min": -1.3, 
+      "max": 8.7, 
+      "recLow": "-7.59", 
+      "recHigh": "6.36", 
+      "avgLow": "-4.55", 
+      "date": "20-Mar", 
+      "avgHigh": "2.6"
+    }, 
+    {
+      "index": 80, 
+      "min": 4.1, 
+      "max": 8.4, 
+      "recLow": "-5.73", 
+      "recHigh": "5.46", 
+      "avgLow": "-2.59", 
+      "date": "21-Mar", 
+      "avgHigh": "3.57"
+    }, 
+    {
+      "index": 81, 
+      "min": 2.4, 
+      "max": 5.8, 
+      "recLow": "-15.53", 
+      "recHigh": "6.57", 
+      "avgLow": "-7.8", 
+      "date": "22-Mar", 
+      "avgHigh": "2.25"
+    }, 
+    {
+      "index": 82, 
+      "min": -4.2, 
+      "max": 4.1, 
+      "recLow": "-15.79", 
+      "recHigh": "6.83", 
+      "avgLow": "-7.84", 
+      "date": "23-Mar", 
+      "avgHigh": "1.15"
+    }, 
+    {
+      "index": 83, 
+      "min": -0.9, 
+      "max": 4.5, 
+      "recLow": "-13.51", 
+      "recHigh": "5.48", 
+      "avgLow": "-6.26", 
+      "date": "24-Mar", 
+      "avgHigh": "0.54"
+    }, 
+    {
+      "index": 84, 
+      "min": -5.7, 
+      "max": 1.6, 
+      "recLow": "-9.15", 
+      "recHigh": "7.19", 
+      "avgLow": "-3.66", 
+      "date": "25-Mar", 
+      "avgHigh": "2.45"
+    }, 
+    {
+      "index": 85, 
+      "min": -5.9, 
+      "max": 0.9, 
+      "recLow": "-6.46", 
+      "recHigh": "6.5", 
+      "avgLow": "-3.27", 
+      "date": "26-Mar", 
+      "avgHigh": "3.32"
+    }, 
+    {
+      "index": 86, 
+      "min": -2.1, 
+      "max": 7.4, 
+      "recLow": "-10.11", 
+      "recHigh": "13.52", 
+      "avgLow": "-2.85", 
+      "date": "27-Mar", 
+      "avgHigh": "5.04"
+    }, 
+    {
+      "index": 87, 
+      "min": 2.6, 
+      "max": 7.7, 
+      "recLow": "-9.32", 
+      "recHigh": "8.79", 
+      "avgLow": "-0.86", 
+      "date": "28-Mar", 
+      "avgHigh": "5.6"
+    }, 
+    {
+      "index": 88, 
+      "min": 5.3, 
+      "max": 8.8, 
+      "recLow": "-6.12", 
+      "recHigh": "10.97", 
+      "avgLow": "0.66", 
+      "date": "29-Mar", 
+      "avgHigh": "6.49"
+    }, 
+    {
+      "index": 89, 
+      "min": -0.1, 
+      "max": 4.8, 
+      "recLow": "-1.73", 
+      "recHigh": "10.82", 
+      "avgLow": "0.55", 
+      "date": "30-Mar", 
+      "avgHigh": "6.24"
+    }, 
+    {
+      "index": 90, 
+      "min": 1.6, 
+      "max": 3.2, 
+      "recLow": "-5.12", 
+      "recHigh": "12.97", 
+      "avgLow": "0.24", 
+      "date": "31-Mar", 
+      "avgHigh": "7.6"
+    }, 
+    {
+      "index": 91, 
+      "min": -5.6, 
+      "max": 2.7, 
+      "recLow": "-5.42", 
+      "recHigh": "16.94", 
+      "avgLow": "0.74", 
+      "date": "1-Apr", 
+      "avgHigh": "7.39"
+    }, 
+    {
+      "index": 92, 
+      "min": -0.6, 
+      "max": 9.8, 
+      "recLow": "-1.63", 
+      "recHigh": "10.16", 
+      "avgLow": "0.59", 
+      "date": "2-Apr", 
+      "avgHigh": "7.94"
+    }, 
+    {
+      "index": 93, 
+      "min": 4.6, 
+      "max": 9.4, 
+      "recLow": "-8.69", 
+      "recHigh": "13.19", 
+      "avgLow": "-0.4", 
+      "date": "3-Apr", 
+      "avgHigh": "7.25"
+    }, 
+    {
+      "index": 94, 
+      "min": -2.1, 
+      "max": 4.2, 
+      "recLow": "-9.81", 
+      "recHigh": "11.92", 
+      "avgLow": "-2.86", 
+      "date": "4-Apr", 
+      "avgHigh": "5.76"
+    }, 
+    {
+      "index": 95, 
+      "min": -2.4, 
+      "max": 5.1, 
+      "recLow": "-9.47", 
+      "recHigh": "7.87", 
+      "avgLow": "-3.23", 
+      "date": "5-Apr", 
+      "avgHigh": "2.76"
+    }, 
+    {
+      "index": 96, 
+      "min": 1.6, 
+      "max": 8.4, 
+      "recLow": "-3.68", 
+      "recHigh": "7.53", 
+      "avgLow": "-1.75", 
+      "date": "6-Apr", 
+      "avgHigh": "4.93"
+    }, 
+    {
+      "index": 97, 
+      "min": 5.8, 
+      "max": 11.4, 
+      "recLow": "-1.49", 
+      "recHigh": "13.48", 
+      "avgLow": "0.6", 
+      "date": "7-Apr", 
+      "avgHigh": "6.33"
+    }, 
+    {
+      "index": 98, 
+      "min": -0.3, 
+      "max": 9.0, 
+      "recLow": "-1.78", 
+      "recHigh": "9.66", 
+      "avgLow": "-0.31", 
+      "date": "8-Apr", 
+      "avgHigh": "5.92"
+    }, 
+    {
+      "index": 99, 
+      "min": -2.1, 
+      "max": 0.3, 
+      "recLow": "-5.21", 
+      "recHigh": "17.14", 
+      "avgLow": "-0.58", 
+      "date": "9-Apr", 
+      "avgHigh": "6.32"
+    }, 
+    {
+      "index": 100, 
+      "min": -1.5, 
+      "max": 5.3, 
+      "recLow": "-5.99", 
+      "recHigh": "26.2", 
+      "avgLow": "2.42", 
+      "date": "10-Apr", 
+      "avgHigh": "13.93"
+    }, 
+    {
+      "index": 101, 
+      "min": -0.4, 
+      "max": 8.0, 
+      "recLow": "-1.53", 
+      "recHigh": "20.01", 
+      "avgLow": "3.67", 
+      "date": "11-Apr", 
+      "avgHigh": "11.63"
+    }, 
+    {
+      "index": 102, 
+      "min": 3.7, 
+      "max": 13.9, 
+      "recLow": "3.22", 
+      "recHigh": "16.92", 
+      "avgLow": "3.89", 
+      "date": "12-Apr", 
+      "avgHigh": "11.97"
+    }, 
+    {
+      "index": 103, 
+      "min": 12.6, 
+      "max": 17.2, 
+      "recLow": "-0.91", 
+      "recHigh": "21.66", 
+      "avgLow": "3.44", 
+      "date": "13-Apr", 
+      "avgHigh": "12.91"
+    }, 
+    {
+      "index": 104, 
+      "min": 4.1, 
+      "max": 12.5, 
+      "recLow": "-3.05", 
+      "recHigh": "24.66", 
+      "avgLow": "2.53", 
+      "date": "14-Apr", 
+      "avgHigh": "15.8"
+    }, 
+    {
+      "index": 105, 
+      "min": 3.2, 
+      "max": 6.4, 
+      "recLow": "-5.44", 
+      "recHigh": "19.59", 
+      "avgLow": "1.68", 
+      "date": "15-Apr", 
+      "avgHigh": "12.91"
+    }, 
+    {
+      "index": 106, 
+      "min": 3.3, 
+      "max": 10.1, 
+      "recLow": "-7.22", 
+      "recHigh": "16.38", 
+      "avgLow": "2.14", 
+      "date": "16-Apr", 
+      "avgHigh": "10.27"
+    }, 
+    {
+      "index": 107, 
+      "min": 5.2, 
+      "max": 14.5, 
+      "recLow": "-1.7", 
+      "recHigh": "22.47", 
+      "avgLow": "4.98", 
+      "date": "17-Apr", 
+      "avgHigh": "12.61"
+    }, 
+    {
+      "index": 108, 
+      "min": 7.8, 
+      "max": 15.3, 
+      "recLow": "0.73", 
+      "recHigh": "19.97", 
+      "avgLow": "3.04", 
+      "date": "18-Apr", 
+      "avgHigh": "12.55"
+    }, 
+    {
+      "index": 109, 
+      "min": 6.3, 
+      "max": 14.7, 
+      "recLow": "1.98", 
+      "recHigh": "14.23", 
+      "avgLow": "3.86", 
+      "date": "19-Apr", 
+      "avgHigh": "10.72"
+    }, 
+    {
+      "index": 110, 
+      "min": 5.4, 
+      "max": 7.9, 
+      "recLow": "1.87", 
+      "recHigh": "13.26", 
+      "avgLow": "3.62", 
+      "date": "20-Apr", 
+      "avgHigh": "11.12"
+    }, 
+    {
+      "index": 111, 
+      "min": 6.9, 
+      "max": 17.9, 
+      "recLow": "3.45", 
+      "recHigh": "21.4", 
+      "avgLow": "6.81", 
+      "date": "21-Apr", 
+      "avgHigh": "15.25"
+    }, 
+    {
+      "index": 112, 
+      "min": 9.9, 
+      "max": 19.0, 
+      "recLow": "4.48", 
+      "recHigh": "20.11", 
+      "avgLow": "7.1", 
+      "date": "22-Apr", 
+      "avgHigh": "14.56"
+    }, 
+    {
+      "index": 113, 
+      "min": 7.5, 
+      "max": 17.4, 
+      "recLow": "1.67", 
+      "recHigh": "18.82", 
+      "avgLow": "4.94", 
+      "date": "23-Apr", 
+      "avgHigh": "13.49"
+    }, 
+    {
+      "index": 114, 
+      "min": 6.4, 
+      "max": 10.7, 
+      "recLow": "0.09", 
+      "recHigh": "22.6", 
+      "avgLow": "2.67", 
+      "date": "24-Apr", 
+      "avgHigh": "12.9"
+    }, 
+    {
+      "index": 115, 
+      "min": 5.4, 
+      "max": 11.8, 
+      "recLow": "0.74", 
+      "recHigh": "19.84", 
+      "avgLow": "3.83", 
+      "date": "25-Apr", 
+      "avgHigh": "13.25"
+    }, 
+    {
+      "index": 116, 
+      "min": 6.0, 
+      "max": 11.9, 
+      "recLow": "0.03", 
+      "recHigh": "15.7", 
+      "avgLow": "5.47", 
+      "date": "26-Apr", 
+      "avgHigh": "12.0"
+    }, 
+    {
+      "index": 117, 
+      "min": 3.9, 
+      "max": 11.5, 
+      "recLow": "-1.26", 
+      "recHigh": "24.55", 
+      "avgLow": "4.95", 
+      "date": "27-Apr", 
+      "avgHigh": "14.25"
+    }, 
+    {
+      "index": 118, 
+      "min": 2.6, 
+      "max": 10.1, 
+      "recLow": "-0.66", 
+      "recHigh": "20.87", 
+      "avgLow": "6.28", 
+      "date": "28-Apr", 
+      "avgHigh": "14.86"
+    }, 
+    {
+      "index": 119, 
+      "min": 2.9, 
+      "max": 10.3, 
+      "recLow": "0.5", 
+      "recHigh": "18.71", 
+      "avgLow": "7.07", 
+      "date": "29-Apr", 
+      "avgHigh": "15.14"
+    }, 
+    {
+      "index": 120, 
+      "min": 6.7, 
+      "max": 15.0, 
+      "recLow": "2.99", 
+      "recHigh": "16.12", 
+      "avgLow": "4.86", 
+      "date": "30-Apr", 
+      "avgHigh": "12.6"
+    }, 
+    {
+      "index": 121, 
+      "min": 3.6, 
+      "max": 11.6, 
+      "recLow": "5.61", 
+      "recHigh": "18.56", 
+      "avgLow": "6.91", 
+      "date": "1-May", 
+      "avgHigh": "15.22"
+    }, 
+    {
+      "index": 122, 
+      "min": 3.0, 
+      "max": 11.2, 
+      "recLow": "6.52", 
+      "recHigh": "26.77", 
+      "avgLow": "10.66", 
+      "date": "2-May", 
+      "avgHigh": "17.73"
+    }, 
+    {
+      "index": 123, 
+      "min": 8.3, 
+      "max": 10.8, 
+      "recLow": "5.24", 
+      "recHigh": "24.73", 
+      "avgLow": "9.93", 
+      "date": "3-May", 
+      "avgHigh": "17.0"
+    }, 
+    {
+      "index": 124, 
+      "min": 9.6, 
+      "max": 17.5, 
+      "recLow": "4.82", 
+      "recHigh": "27.43", 
+      "avgLow": "9.12", 
+      "date": "4-May", 
+      "avgHigh": "17.12"
+    }, 
+    {
+      "index": 125, 
+      "min": 8.9, 
+      "max": 47.8, 
+      "recLow": "6.52", 
+      "recHigh": "21.18", 
+      "avgLow": "8.24", 
+      "date": "5-May", 
+      "avgHigh": "17.37"
+    }, 
+    {
+      "index": 126, 
+      "min": 0.0, 
+      "max": 50.0, 
+      "recLow": "5.8", 
+      "recHigh": "24.31", 
+      "avgLow": "9.02", 
+      "date": "6-May", 
+      "avgHigh": "20.34"
+    }, 
+    {
+      "index": 127, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "5.73", 
+      "recHigh": "26.88", 
+      "avgLow": "9.37", 
+      "date": "7-May", 
+      "avgHigh": "19.66"
+    }, 
+    {
+      "index": 128, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "2.14", 
+      "recHigh": "30.03", 
+      "avgLow": "7.82", 
+      "date": "8-May", 
+      "avgHigh": "18.88"
+    }, 
+    {
+      "index": 129, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "1.54", 
+      "recHigh": "28.56", 
+      "avgLow": "8.57", 
+      "date": "9-May", 
+      "avgHigh": "18.93"
+    }, 
+    {
+      "index": 130, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "4.86", 
+      "recHigh": "25.14", 
+      "avgLow": "11.97", 
+      "date": "10-May", 
+      "avgHigh": "20.77"
+    }, 
+    {
+      "index": 131, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "4.15", 
+      "recHigh": "21.18", 
+      "avgLow": "8.3", 
+      "date": "11-May", 
+      "avgHigh": "17.39"
+    }, 
+    {
+      "index": 132, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "7.63", 
+      "recHigh": "25.98", 
+      "avgLow": "9.33", 
+      "date": "12-May", 
+      "avgHigh": "21.45"
+    }, 
+    {
+      "index": 133, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "7.11", 
+      "recHigh": "23.84", 
+      "avgLow": "9.92", 
+      "date": "13-May", 
+      "avgHigh": "20.06"
+    }, 
+    {
+      "index": 134, 
+      "min": 7.2, 
+      "max": 9.3, 
+      "recLow": "8.23", 
+      "recHigh": "25.33", 
+      "avgLow": "11.43", 
+      "date": "14-May", 
+      "avgHigh": "20.6"
+    }, 
+    {
+      "index": 135, 
+      "min": 7.3, 
+      "max": 10.1, 
+      "recLow": "4.88", 
+      "recHigh": "26.28", 
+      "avgLow": "11.94", 
+      "date": "15-May", 
+      "avgHigh": "21.29"
+    }, 
+    {
+      "index": 136, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "2.3", 
+      "recHigh": "23.68", 
+      "avgLow": "10.65", 
+      "date": "16-May", 
+      "avgHigh": "19.75"
+    }, 
+    {
+      "index": 137, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "4.95", 
+      "recHigh": "29.78", 
+      "avgLow": "11.29", 
+      "date": "17-May", 
+      "avgHigh": "20.87"
+    }, 
+    {
+      "index": 138, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "6.25", 
+      "recHigh": "30.27", 
+      "avgLow": "11.33", 
+      "date": "18-May", 
+      "avgHigh": "22.1"
+    }, 
+    {
+      "index": 139, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "9.72", 
+      "recHigh": "26.26", 
+      "avgLow": "12.18", 
+      "date": "19-May", 
+      "avgHigh": "22.68"
+    }, 
+    {
+      "index": 140, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "6.43", 
+      "recHigh": "23.88", 
+      "avgLow": "10.03", 
+      "date": "20-May", 
+      "avgHigh": "21.38"
+    }, 
+    {
+      "index": 141, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "9.31", 
+      "recHigh": "25.7", 
+      "avgLow": "12.32", 
+      "date": "21-May", 
+      "avgHigh": "22.89"
+    }, 
+    {
+      "index": 142, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "6.13", 
+      "recHigh": "25.93", 
+      "avgLow": "12.03", 
+      "date": "22-May", 
+      "avgHigh": "21.04"
+    }, 
+    {
+      "index": 143, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "2.96", 
+      "recHigh": "27.08", 
+      "avgLow": "10.74", 
+      "date": "23-May", 
+      "avgHigh": "21.57"
+    }, 
+    {
+      "index": 144, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "12.03", 
+      "recHigh": "29.9", 
+      "avgLow": "13.66", 
+      "date": "24-May", 
+      "avgHigh": "25.06"
+    }, 
+    {
+      "index": 145, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "12.46", 
+      "recHigh": "27.01", 
+      "avgLow": "15.42", 
+      "date": "25-May", 
+      "avgHigh": "24.67"
+    }, 
+    {
+      "index": 146, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "12.34", 
+      "recHigh": "28.37", 
+      "avgLow": "15.31", 
+      "date": "26-May", 
+      "avgHigh": "22.58"
+    }, 
+    {
+      "index": 147, 
+      "min": 10.9, 
+      "max": 17.7, 
+      "recLow": "7.76", 
+      "recHigh": "31.19", 
+      "avgLow": "13.96", 
+      "date": "27-May", 
+      "avgHigh": "24.8"
+    }, 
+    {
+      "index": 148, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "9.61", 
+      "recHigh": "27.35", 
+      "avgLow": "15.16", 
+      "date": "28-May", 
+      "avgHigh": "23.58"
+    }, 
+    {
+      "index": 149, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "10.53", 
+      "recHigh": "26.5", 
+      "avgLow": "14.53", 
+      "date": "29-May", 
+      "avgHigh": "24.28"
+    }, 
+    {
+      "index": 150, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "13.02", 
+      "recHigh": "30.28", 
+      "avgLow": "16.52", 
+      "date": "30-May", 
+      "avgHigh": "25.72"
+    }, 
+    {
+      "index": 151, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "8.43", 
+      "recHigh": "30.07", 
+      "avgLow": "14.71", 
+      "date": "31-May", 
+      "avgHigh": "24.24"
+    }, 
+    {
+      "index": 152, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "10.01", 
+      "recHigh": "30.79", 
+      "avgLow": "14.69", 
+      "date": "1-Jun", 
+      "avgHigh": "22.7"
+    }, 
+    {
+      "index": 153, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "8.16", 
+      "recHigh": "29.62", 
+      "avgLow": "13.82", 
+      "date": "2-Jun", 
+      "avgHigh": "21.93"
+    }, 
+    {
+      "index": 154, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "6.72", 
+      "recHigh": "27.59", 
+      "avgLow": "13.39", 
+      "date": "3-Jun", 
+      "avgHigh": "22.82"
+    }, 
+    {
+      "index": 155, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "9.47", 
+      "recHigh": "25.41", 
+      "avgLow": "13.22", 
+      "date": "4-Jun", 
+      "avgHigh": "23.48"
+    }, 
+    {
+      "index": 156, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "11.64", 
+      "recHigh": "23.71", 
+      "avgLow": "14.62", 
+      "date": "5-Jun", 
+      "avgHigh": "19.77"
+    }, 
+    {
+      "index": 157, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "9.94", 
+      "recHigh": "22.33", 
+      "avgLow": "12.93", 
+      "date": "6-Jun", 
+      "avgHigh": "19.47"
+    }, 
+    {
+      "index": 158, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "11.99", 
+      "recHigh": "26.9", 
+      "avgLow": "14.15", 
+      "date": "7-Jun", 
+      "avgHigh": "23.65"
+    }, 
+    {
+      "index": 159, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "10.96", 
+      "recHigh": "28.39", 
+      "avgLow": "15.14", 
+      "date": "8-Jun", 
+      "avgHigh": "23.8"
+    }, 
+    {
+      "index": 160, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "7.93", 
+      "recHigh": "28.0", 
+      "avgLow": "16.45", 
+      "date": "9-Jun", 
+      "avgHigh": "22.86"
+    }, 
+    {
+      "index": 161, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "9.27", 
+      "recHigh": "25.91", 
+      "avgLow": "14.07", 
+      "date": "10-Jun", 
+      "avgHigh": "23.53"
+    }, 
+    {
+      "index": 162, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "12.78", 
+      "recHigh": "29.35", 
+      "avgLow": "15.92", 
+      "date": "11-Jun", 
+      "avgHigh": "23.54"
+    }, 
+    {
+      "index": 163, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "10.46", 
+      "recHigh": "31.43", 
+      "avgLow": "15.32", 
+      "date": "12-Jun", 
+      "avgHigh": "22.8"
+    }, 
+    {
+      "index": 164, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "11.21", 
+      "recHigh": "28.27", 
+      "avgLow": "17.33", 
+      "date": "13-Jun", 
+      "avgHigh": "23.93"
+    }, 
+    {
+      "index": 165, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "11.71", 
+      "recHigh": "26.38", 
+      "avgLow": "13.87", 
+      "date": "14-Jun", 
+      "avgHigh": "23.24"
+    }, 
+    {
+      "index": 166, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "12.1", 
+      "recHigh": "28.0", 
+      "avgLow": "14.5", 
+      "date": "15-Jun", 
+      "avgHigh": "24.82"
+    }, 
+    {
+      "index": 167, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "14.7", 
+      "recHigh": "28.51", 
+      "avgLow": "16.16", 
+      "date": "16-Jun", 
+      "avgHigh": "24.51"
+    }, 
+    {
+      "index": 168, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "13.85", 
+      "recHigh": "30.03", 
+      "avgLow": "17.22", 
+      "date": "17-Jun", 
+      "avgHigh": "27.35"
+    }, 
+    {
+      "index": 169, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "16.39", 
+      "recHigh": "31.36", 
+      "avgLow": "18.59", 
+      "date": "18-Jun", 
+      "avgHigh": "28.62"
+    }, 
+    {
+      "index": 170, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "11.77", 
+      "recHigh": "31.26", 
+      "avgLow": "17.42", 
+      "date": "19-Jun", 
+      "avgHigh": "26.68"
+    }, 
+    {
+      "index": 171, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "12.89", 
+      "recHigh": "32.47", 
+      "avgLow": "17.09", 
+      "date": "20-Jun", 
+      "avgHigh": "26.11"
+    }, 
+    {
+      "index": 172, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "13.93", 
+      "recHigh": "28.48", 
+      "avgLow": "16.2", 
+      "date": "21-Jun", 
+      "avgHigh": "24.13"
+    }, 
+    {
+      "index": 173, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "14.49", 
+      "recHigh": "26.48", 
+      "avgLow": "15.86", 
+      "date": "22-Jun", 
+      "avgHigh": "24.69"
+    }, 
+    {
+      "index": 174, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "16.42", 
+      "recHigh": "26.82", 
+      "avgLow": "17.59", 
+      "date": "23-Jun", 
+      "avgHigh": "25.45"
+    }, 
+    {
+      "index": 175, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "14.2", 
+      "recHigh": "26.15", 
+      "avgLow": "16.5", 
+      "date": "24-Jun", 
+      "avgHigh": "24.54"
+    }, 
+    {
+      "index": 176, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "13.42", 
+      "recHigh": "29.99", 
+      "avgLow": "16.62", 
+      "date": "25-Jun", 
+      "avgHigh": "24.54"
+    }, 
+    {
+      "index": 177, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "14.08", 
+      "recHigh": "31.88", 
+      "avgLow": "16.71", 
+      "date": "26-Jun", 
+      "avgHigh": "25.86"
+    }, 
+    {
+      "index": 178, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "14.61", 
+      "recHigh": "30.26", 
+      "avgLow": "17.9", 
+      "date": "27-Jun", 
+      "avgHigh": "26.26"
+    }, 
+    {
+      "index": 179, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "13.33", 
+      "recHigh": "29.7", 
+      "avgLow": "16.96", 
+      "date": "28-Jun", 
+      "avgHigh": "24.99"
+    }, 
+    {
+      "index": 180, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "12.13", 
+      "recHigh": "31.32", 
+      "avgLow": "17.59", 
+      "date": "29-Jun", 
+      "avgHigh": "24.9"
+    }, 
+    {
+      "index": 181, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "15.15", 
+      "recHigh": "32.0", 
+      "avgLow": "19.18", 
+      "date": "30-Jun", 
+      "avgHigh": "27.45"
+    }, 
+    {
+      "index": 182, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "17.29", 
+      "recHigh": "34.91", 
+      "avgLow": "20.95", 
+      "date": "1-Jul", 
+      "avgHigh": "27.77"
+    }, 
+    {
+      "index": 183, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "13.43", 
+      "recHigh": "36.38", 
+      "avgLow": "19.29", 
+      "date": "2-Jul", 
+      "avgHigh": "26.57"
+    }, 
+    {
+      "index": 184, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "15.38", 
+      "recHigh": "33.34", 
+      "avgLow": "18.86", 
+      "date": "3-Jul", 
+      "avgHigh": "26.97"
+    }, 
+    {
+      "index": 185, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "16.59", 
+      "recHigh": "35.03", 
+      "avgLow": "19.07", 
+      "date": "4-Jul", 
+      "avgHigh": "27.96"
+    }, 
+    {
+      "index": 186, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "16.01", 
+      "recHigh": "34.59", 
+      "avgLow": "20.05", 
+      "date": "5-Jul", 
+      "avgHigh": "29.23"
+    }, 
+    {
+      "index": 187, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "19.2", 
+      "recHigh": "32.79", 
+      "avgLow": "20.11", 
+      "date": "6-Jul", 
+      "avgHigh": "29.33"
+    }, 
+    {
+      "index": 188, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "16.49", 
+      "recHigh": "27.78", 
+      "avgLow": "19.75", 
+      "date": "7-Jul", 
+      "avgHigh": "26.41"
+    }, 
+    {
+      "index": 189, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "15.76", 
+      "recHigh": "29.2", 
+      "avgLow": "18.54", 
+      "date": "8-Jul", 
+      "avgHigh": "26.29"
+    }, 
+    {
+      "index": 190, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "16.19", 
+      "recHigh": "31.58", 
+      "avgLow": "18.4", 
+      "date": "9-Jul", 
+      "avgHigh": "25.2"
+    }, 
+    {
+      "index": 191, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "15.24", 
+      "recHigh": "29.84", 
+      "avgLow": "17.92", 
+      "date": "10-Jul", 
+      "avgHigh": "24.04"
+    }, 
+    {
+      "index": 192, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "16.01", 
+      "recHigh": "27.49", 
+      "avgLow": "17.73", 
+      "date": "11-Jul", 
+      "avgHigh": "25.9"
+    }, 
+    {
+      "index": 193, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "17.5", 
+      "recHigh": "28.56", 
+      "avgLow": "19.01", 
+      "date": "12-Jul", 
+      "avgHigh": "26.95"
+    }, 
+    {
+      "index": 194, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "14.92", 
+      "recHigh": "31.52", 
+      "avgLow": "19.39", 
+      "date": "13-Jul", 
+      "avgHigh": "27.99"
+    }, 
+    {
+      "index": 195, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "16.13", 
+      "recHigh": "29.31", 
+      "avgLow": "20.56", 
+      "date": "14-Jul", 
+      "avgHigh": "26.02"
+    }, 
+    {
+      "index": 196, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "13.57", 
+      "recHigh": "31.29", 
+      "avgLow": "18.27", 
+      "date": "15-Jul", 
+      "avgHigh": "26.7"
+    }, 
+    {
+      "index": 197, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "13.91", 
+      "recHigh": "33.04", 
+      "avgLow": "18.35", 
+      "date": "16-Jul", 
+      "avgHigh": "26.46"
+    }, 
+    {
+      "index": 198, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "15.19", 
+      "recHigh": "31.3", 
+      "avgLow": "18.76", 
+      "date": "17-Jul", 
+      "avgHigh": "26.05"
+    }, 
+    {
+      "index": 199, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "16.09", 
+      "recHigh": "29.08", 
+      "avgLow": "18.06", 
+      "date": "18-Jul", 
+      "avgHigh": "26.88"
+    }, 
+    {
+      "index": 200, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "16.21", 
+      "recHigh": "27.95", 
+      "avgLow": "19.02", 
+      "date": "19-Jul", 
+      "avgHigh": "27.04"
+    }, 
+    {
+      "index": 201, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "17.89", 
+      "recHigh": "31.07", 
+      "avgLow": "20.2", 
+      "date": "20-Jul", 
+      "avgHigh": "27.82"
+    }, 
+    {
+      "index": 202, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "19.02", 
+      "recHigh": "31.18", 
+      "avgLow": "20.3", 
+      "date": "21-Jul", 
+      "avgHigh": "28.73"
+    }, 
+    {
+      "index": 203, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "16.79", 
+      "recHigh": "31.1", 
+      "avgLow": "19.3", 
+      "date": "22-Jul", 
+      "avgHigh": "27.6"
+    }, 
+    {
+      "index": 204, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "16.07", 
+      "recHigh": "29.04", 
+      "avgLow": "19.14", 
+      "date": "23-Jul", 
+      "avgHigh": "26.89"
+    }, 
+    {
+      "index": 205, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "14.25", 
+      "recHigh": "30.08", 
+      "avgLow": "17.34", 
+      "date": "24-Jul", 
+      "avgHigh": "24.96"
+    }, 
+    {
+      "index": 206, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "13.96", 
+      "recHigh": "27.56", 
+      "avgLow": "17.69", 
+      "date": "25-Jul", 
+      "avgHigh": "25.38"
+    }, 
+    {
+      "index": 207, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "17.25", 
+      "recHigh": "28.82", 
+      "avgLow": "19.4", 
+      "date": "26-Jul", 
+      "avgHigh": "26.58"
+    }, 
+    {
+      "index": 208, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "18.09", 
+      "recHigh": "29.67", 
+      "avgLow": "20.22", 
+      "date": "27-Jul", 
+      "avgHigh": "27.73"
+    }, 
+    {
+      "index": 209, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "15.86", 
+      "recHigh": "30.7", 
+      "avgLow": "19.28", 
+      "date": "28-Jul", 
+      "avgHigh": "26.92"
+    }, 
+    {
+      "index": 210, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "13.28", 
+      "recHigh": "32.16", 
+      "avgLow": "17.98", 
+      "date": "29-Jul", 
+      "avgHigh": "26.31"
+    }, 
+    {
+      "index": 211, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "14.41", 
+      "recHigh": "29.95", 
+      "avgLow": "18.47", 
+      "date": "30-Jul", 
+      "avgHigh": "26.75"
+    }, 
+    {
+      "index": 212, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "15.15", 
+      "recHigh": "30.03", 
+      "avgLow": "19.29", 
+      "date": "31-Jul", 
+      "avgHigh": "26.8"
+    }, 
+    {
+      "index": 213, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "16.76", 
+      "recHigh": "28.39", 
+      "avgLow": "19.41", 
+      "date": "1-Aug", 
+      "avgHigh": "26.69"
+    }, 
+    {
+      "index": 214, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "16.85", 
+      "recHigh": "30.57", 
+      "avgLow": "19.83", 
+      "date": "2-Aug", 
+      "avgHigh": "28.62"
+    }, 
+    {
+      "index": 215, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "19.46", 
+      "recHigh": "30.05", 
+      "avgLow": "21.04", 
+      "date": "3-Aug", 
+      "avgHigh": "27.89"
+    }, 
+    {
+      "index": 216, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "18.4", 
+      "recHigh": "31.61", 
+      "avgLow": "20.56", 
+      "date": "4-Aug", 
+      "avgHigh": "27.83"
+    }, 
+    {
+      "index": 217, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "16.72", 
+      "recHigh": "32.66", 
+      "avgLow": "19.73", 
+      "date": "5-Aug", 
+      "avgHigh": "27.58"
+    }, 
+    {
+      "index": 218, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "14.26", 
+      "recHigh": "32.95", 
+      "avgLow": "18.89", 
+      "date": "6-Aug", 
+      "avgHigh": "26.42"
+    }, 
+    {
+      "index": 219, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "15.04", 
+      "recHigh": "28.67", 
+      "avgLow": "17.88", 
+      "date": "7-Aug", 
+      "avgHigh": "24.21"
+    }, 
+    {
+      "index": 220, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "15.18", 
+      "recHigh": "28.35", 
+      "avgLow": "18.06", 
+      "date": "8-Aug", 
+      "avgHigh": "26.37"
+    }, 
+    {
+      "index": 221, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "15.88", 
+      "recHigh": "28.71", 
+      "avgLow": "18.77", 
+      "date": "9-Aug", 
+      "avgHigh": "26.97"
+    }, 
+    {
+      "index": 222, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "16.96", 
+      "recHigh": "31.69", 
+      "avgLow": "19.22", 
+      "date": "10-Aug", 
+      "avgHigh": "28.12"
+    }, 
+    {
+      "index": 223, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "17.31", 
+      "recHigh": "31.43", 
+      "avgLow": "20.19", 
+      "date": "11-Aug", 
+      "avgHigh": "27.91"
+    }, 
+    {
+      "index": 224, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "18.0", 
+      "recHigh": "30.26", 
+      "avgLow": "19.28", 
+      "date": "12-Aug", 
+      "avgHigh": "27.46"
+    }, 
+    {
+      "index": 225, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "16.5", 
+      "recHigh": "30.19", 
+      "avgLow": "18.45", 
+      "date": "13-Aug", 
+      "avgHigh": "24.59"
+    }, 
+    {
+      "index": 226, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "12.28", 
+      "recHigh": "29.38", 
+      "avgLow": "17.96", 
+      "date": "14-Aug", 
+      "avgHigh": "24.73"
+    }, 
+    {
+      "index": 227, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "12.32", 
+      "recHigh": "28.77", 
+      "avgLow": "18.66", 
+      "date": "15-Aug", 
+      "avgHigh": "25.15"
+    }, 
+    {
+      "index": 228, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "14.53", 
+      "recHigh": "29.87", 
+      "avgLow": "17.89", 
+      "date": "16-Aug", 
+      "avgHigh": "24.49"
+    }, 
+    {
+      "index": 229, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "14.61", 
+      "recHigh": "31.3", 
+      "avgLow": "18.09", 
+      "date": "17-Aug", 
+      "avgHigh": "25.67"
+    }, 
+    {
+      "index": 230, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "12.95", 
+      "recHigh": "30.81", 
+      "avgLow": "18.5", 
+      "date": "18-Aug", 
+      "avgHigh": "25.95"
+    }, 
+    {
+      "index": 231, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "14.43", 
+      "recHigh": "30.53", 
+      "avgLow": "18.7", 
+      "date": "19-Aug", 
+      "avgHigh": "27.13"
+    }, 
+    {
+      "index": 232, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "16.02", 
+      "recHigh": "30.43", 
+      "avgLow": "19.2", 
+      "date": "20-Aug", 
+      "avgHigh": "28.12"
+    }, 
+    {
+      "index": 233, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "17.98", 
+      "recHigh": "28.39", 
+      "avgLow": "19.58", 
+      "date": "21-Aug", 
+      "avgHigh": "27.39"
+    }, 
+    {
+      "index": 234, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "13.97", 
+      "recHigh": "26.73", 
+      "avgLow": "18.27", 
+      "date": "22-Aug", 
+      "avgHigh": "24.19"
+    }, 
+    {
+      "index": 235, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "15.23", 
+      "recHigh": "27.45", 
+      "avgLow": "16.94", 
+      "date": "23-Aug", 
+      "avgHigh": "25.26"
+    }, 
+    {
+      "index": 236, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "15.21", 
+      "recHigh": "29.16", 
+      "avgLow": "19.08", 
+      "date": "24-Aug", 
+      "avgHigh": "26.93"
+    }, 
+    {
+      "index": 237, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "13.81", 
+      "recHigh": "29.1", 
+      "avgLow": "19.33", 
+      "date": "25-Aug", 
+      "avgHigh": "26.56"
+    }, 
+    {
+      "index": 238, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "13.99", 
+      "recHigh": "28.37", 
+      "avgLow": "19.01", 
+      "date": "26-Aug", 
+      "avgHigh": "25.22"
+    }, 
+    {
+      "index": 239, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "13.59", 
+      "recHigh": "26.68", 
+      "avgLow": "18.27", 
+      "date": "27-Aug", 
+      "avgHigh": "24.8"
+    }, 
+    {
+      "index": 240, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "14.01", 
+      "recHigh": "31.11", 
+      "avgLow": "17.73", 
+      "date": "28-Aug", 
+      "avgHigh": "25.55"
+    }, 
+    {
+      "index": 241, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "14.5", 
+      "recHigh": "31.22", 
+      "avgLow": "18.1", 
+      "date": "29-Aug", 
+      "avgHigh": "25.39"
+    }, 
+    {
+      "index": 242, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "14.77", 
+      "recHigh": "26.61", 
+      "avgLow": "17.63", 
+      "date": "30-Aug", 
+      "avgHigh": "24.45"
+    }, 
+    {
+      "index": 243, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "13.32", 
+      "recHigh": "25.23", 
+      "avgLow": "17.5", 
+      "date": "31-Aug", 
+      "avgHigh": "24.33"
+    }, 
+    {
+      "index": 244, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "8.0", 
+      "recHigh": "27.17", 
+      "avgLow": "16.46", 
+      "date": "1-Sep", 
+      "avgHigh": "24.33"
+    }, 
+    {
+      "index": 245, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "11.27", 
+      "recHigh": "27.74", 
+      "avgLow": "17.45", 
+      "date": "2-Sep", 
+      "avgHigh": "24.53"
+    }, 
+    {
+      "index": 246, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "12.15", 
+      "recHigh": "29.61", 
+      "avgLow": "18.13", 
+      "date": "3-Sep", 
+      "avgHigh": "24.51"
+    }, 
+    {
+      "index": 247, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "13.54", 
+      "recHigh": "27.25", 
+      "avgLow": "17.09", 
+      "date": "4-Sep", 
+      "avgHigh": "26.17"
+    }, 
+    {
+      "index": 248, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "15.95", 
+      "recHigh": "33.11", 
+      "avgLow": "18.65", 
+      "date": "5-Sep", 
+      "avgHigh": "28.27"
+    }, 
+    {
+      "index": 249, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "15.7", 
+      "recHigh": "31.01", 
+      "avgLow": "18.88", 
+      "date": "6-Sep", 
+      "avgHigh": "26.95"
+    }, 
+    {
+      "index": 250, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "14.17", 
+      "recHigh": "31.26", 
+      "avgLow": "17.46", 
+      "date": "7-Sep", 
+      "avgHigh": "24.83"
+    }, 
+    {
+      "index": 251, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "11.89", 
+      "recHigh": "28.36", 
+      "avgLow": "16.74", 
+      "date": "8-Sep", 
+      "avgHigh": "23.76"
+    }, 
+    {
+      "index": 252, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "9.12", 
+      "recHigh": "27.21", 
+      "avgLow": "16.58", 
+      "date": "9-Sep", 
+      "avgHigh": "23.09"
+    }, 
+    {
+      "index": 253, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "9.78", 
+      "recHigh": "26.97", 
+      "avgLow": "14.99", 
+      "date": "10-Sep", 
+      "avgHigh": "22.59"
+    }, 
+    {
+      "index": 254, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "13.34", 
+      "recHigh": "25.61", 
+      "avgLow": "14.87", 
+      "date": "11-Sep", 
+      "avgHigh": "23.55"
+    }, 
+    {
+      "index": 255, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "9.2", 
+      "recHigh": "25.0", 
+      "avgLow": "14.72", 
+      "date": "12-Sep", 
+      "avgHigh": "21.81"
+    }, 
+    {
+      "index": 256, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "8.38", 
+      "recHigh": "27.6", 
+      "avgLow": "14.84", 
+      "date": "13-Sep", 
+      "avgHigh": "22.35"
+    }, 
+    {
+      "index": 257, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "7.15", 
+      "recHigh": "29.02", 
+      "avgLow": "15.19", 
+      "date": "14-Sep", 
+      "avgHigh": "22.71"
+    }, 
+    {
+      "index": 258, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "7.66", 
+      "recHigh": "30.24", 
+      "avgLow": "14.1", 
+      "date": "15-Sep", 
+      "avgHigh": "23.62"
+    }, 
+    {
+      "index": 259, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "11.83", 
+      "recHigh": "28.66", 
+      "avgLow": "16.97", 
+      "date": "16-Sep", 
+      "avgHigh": "24.63"
+    }, 
+    {
+      "index": 260, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "10.0", 
+      "recHigh": "29.91", 
+      "avgLow": "17.81", 
+      "date": "17-Sep", 
+      "avgHigh": "25.15"
+    }, 
+    {
+      "index": 261, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "8.03", 
+      "recHigh": "28.51", 
+      "avgLow": "16.43", 
+      "date": "18-Sep", 
+      "avgHigh": "25.02"
+    }, 
+    {
+      "index": 262, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "3.97", 
+      "recHigh": "27.64", 
+      "avgLow": "15.3", 
+      "date": "19-Sep", 
+      "avgHigh": "22.2"
+    }, 
+    {
+      "index": 263, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "9.56", 
+      "recHigh": "26.29", 
+      "avgLow": "13.24", 
+      "date": "20-Sep", 
+      "avgHigh": "22.31"
+    }, 
+    {
+      "index": 264, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "11.85", 
+      "recHigh": "26.04", 
+      "avgLow": "15.19", 
+      "date": "21-Sep", 
+      "avgHigh": "23.68"
+    }, 
+    {
+      "index": 265, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "10.04", 
+      "recHigh": "26.55", 
+      "avgLow": "13.41", 
+      "date": "22-Sep", 
+      "avgHigh": "23.16"
+    }, 
+    {
+      "index": 266, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "8.03", 
+      "recHigh": "28.97", 
+      "avgLow": "12.82", 
+      "date": "23-Sep", 
+      "avgHigh": "20.96"
+    }, 
+    {
+      "index": 267, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "5.2", 
+      "recHigh": "31.03", 
+      "avgLow": "11.81", 
+      "date": "24-Sep", 
+      "avgHigh": "21.32"
+    }, 
+    {
+      "index": 268, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "6.92", 
+      "recHigh": "32.08", 
+      "avgLow": "13.1", 
+      "date": "25-Sep", 
+      "avgHigh": "20.84"
+    }, 
+    {
+      "index": 269, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "7.74", 
+      "recHigh": "30.26", 
+      "avgLow": "14.25", 
+      "date": "26-Sep", 
+      "avgHigh": "22.84"
+    }, 
+    {
+      "index": 270, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "10.68", 
+      "recHigh": "31.36", 
+      "avgLow": "15.01", 
+      "date": "27-Sep", 
+      "avgHigh": "24.21"
+    }, 
+    {
+      "index": 271, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "10.87", 
+      "recHigh": "24.94", 
+      "avgLow": "14.24", 
+      "date": "28-Sep", 
+      "avgHigh": "22.04"
+    }, 
+    {
+      "index": 272, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "8.22", 
+      "recHigh": "24.53", 
+      "avgLow": "10.94", 
+      "date": "29-Sep", 
+      "avgHigh": "19.6"
+    }, 
+    {
+      "index": 273, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "7.37", 
+      "recHigh": "18.88", 
+      "avgLow": "8.9", 
+      "date": "30-Sep", 
+      "avgHigh": "16.07"
+    }, 
+    {
+      "index": 274, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "5.49", 
+      "recHigh": "18.26", 
+      "avgLow": "9.14", 
+      "date": "1-Oct", 
+      "avgHigh": "16.47"
+    }, 
+    {
+      "index": 275, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "4.96", 
+      "recHigh": "20.69", 
+      "avgLow": "9.67", 
+      "date": "2-Oct", 
+      "avgHigh": "16.34"
+    }, 
+    {
+      "index": 276, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "4.9", 
+      "recHigh": "22.78", 
+      "avgLow": "9.29", 
+      "date": "3-Oct", 
+      "avgHigh": "17.92"
+    }, 
+    {
+      "index": 277, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "5.23", 
+      "recHigh": "25.15", 
+      "avgLow": "10.17", 
+      "date": "4-Oct", 
+      "avgHigh": "19.35"
+    }, 
+    {
+      "index": 278, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "5.35", 
+      "recHigh": "20.93", 
+      "avgLow": "9.7", 
+      "date": "5-Oct", 
+      "avgHigh": "17.16"
+    }, 
+    {
+      "index": 279, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "6.6", 
+      "recHigh": "23.11", 
+      "avgLow": "10.54", 
+      "date": "6-Oct", 
+      "avgHigh": "17.53"
+    }, 
+    {
+      "index": 280, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "8.89", 
+      "recHigh": "23.98", 
+      "avgLow": "12.29", 
+      "date": "7-Oct", 
+      "avgHigh": "18.25"
+    }, 
+    {
+      "index": 281, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "6.7", 
+      "recHigh": "23.67", 
+      "avgLow": "12.01", 
+      "date": "8-Oct", 
+      "avgHigh": "16.78"
+    }, 
+    {
+      "index": 282, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "5.24", 
+      "recHigh": "27.74", 
+      "avgLow": "9.28", 
+      "date": "9-Oct", 
+      "avgHigh": "16.7"
+    }, 
+    {
+      "index": 283, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "3.46", 
+      "recHigh": "25.57", 
+      "avgLow": "7.86", 
+      "date": "10-Oct", 
+      "avgHigh": "15.93"
+    }, 
+    {
+      "index": 284, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "6.95", 
+      "recHigh": "17.86", 
+      "avgLow": "8.06", 
+      "date": "11-Oct", 
+      "avgHigh": "15.12"
+    }, 
+    {
+      "index": 285, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "5.97", 
+      "recHigh": "23.79", 
+      "avgLow": "9.48", 
+      "date": "12-Oct", 
+      "avgHigh": "16.93"
+    }, 
+    {
+      "index": 286, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "6.52", 
+      "recHigh": "19.11", 
+      "avgLow": "8.9", 
+      "date": "13-Oct", 
+      "avgHigh": "15.96"
+    }, 
+    {
+      "index": 287, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "3.44", 
+      "recHigh": "23.56", 
+      "avgLow": "9.1", 
+      "date": "14-Oct", 
+      "avgHigh": "16.15"
+    }, 
+    {
+      "index": 288, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "5.06", 
+      "recHigh": "23.98", 
+      "avgLow": "10.7", 
+      "date": "15-Oct", 
+      "avgHigh": "17.67"
+    }, 
+    {
+      "index": 289, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "4.51", 
+      "recHigh": "23.38", 
+      "avgLow": "8.67", 
+      "date": "16-Oct", 
+      "avgHigh": "15.97"
+    }, 
+    {
+      "index": 290, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "0.9", 
+      "recHigh": "19.46", 
+      "avgLow": "7.0", 
+      "date": "17-Oct", 
+      "avgHigh": "14.07"
+    }, 
+    {
+      "index": 291, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-1.22", 
+      "recHigh": "26.18", 
+      "avgLow": "6.71", 
+      "date": "18-Oct", 
+      "avgHigh": "13.96"
+    }, 
+    {
+      "index": 292, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-1.26", 
+      "recHigh": "21.67", 
+      "avgLow": "6.68", 
+      "date": "19-Oct", 
+      "avgHigh": "16.0"
+    }, 
+    {
+      "index": 293, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "2.86", 
+      "recHigh": "18.21", 
+      "avgLow": "7.78", 
+      "date": "20-Oct", 
+      "avgHigh": "14.48"
+    }, 
+    {
+      "index": 294, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "3.04", 
+      "recHigh": "21.36", 
+      "avgLow": "6.84", 
+      "date": "21-Oct", 
+      "avgHigh": "11.82"
+    }, 
+    {
+      "index": 295, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "1.17", 
+      "recHigh": "20.23", 
+      "avgLow": "5.71", 
+      "date": "22-Oct", 
+      "avgHigh": "12.96"
+    }, 
+    {
+      "index": 296, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "2.19", 
+      "recHigh": "21.01", 
+      "avgLow": "5.09", 
+      "date": "23-Oct", 
+      "avgHigh": "11.8"
+    }, 
+    {
+      "index": 297, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "1.2", 
+      "recHigh": "22.38", 
+      "avgLow": "6.17", 
+      "date": "24-Oct", 
+      "avgHigh": "12.18"
+    }, 
+    {
+      "index": 298, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "1.27", 
+      "recHigh": "17.57", 
+      "avgLow": "6.83", 
+      "date": "25-Oct", 
+      "avgHigh": "10.63"
+    }, 
+    {
+      "index": 299, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-0.66", 
+      "recHigh": "13.54", 
+      "avgLow": "4.49", 
+      "date": "26-Oct", 
+      "avgHigh": "8.83"
+    }, 
+    {
+      "index": 300, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-0.55", 
+      "recHigh": "11.18", 
+      "avgLow": "4.17", 
+      "date": "27-Oct", 
+      "avgHigh": "8.97"
+    }, 
+    {
+      "index": 301, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "1.31", 
+      "recHigh": "18.45", 
+      "avgLow": "3.9", 
+      "date": "28-Oct", 
+      "avgHigh": "10.48"
+    }, 
+    {
+      "index": 302, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "3.29", 
+      "recHigh": "17.99", 
+      "avgLow": "6.91", 
+      "date": "29-Oct", 
+      "avgHigh": "12.51"
+    }, 
+    {
+      "index": 303, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "2.77", 
+      "recHigh": "18.11", 
+      "avgLow": "5.08", 
+      "date": "30-Oct", 
+      "avgHigh": "10.07"
+    }, 
+    {
+      "index": 304, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "2.37", 
+      "recHigh": "10.87", 
+      "avgLow": "3.77", 
+      "date": "31-Oct", 
+      "avgHigh": "7.46"
+    }, 
+    {
+      "index": 305, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "0.47", 
+      "recHigh": "11.9", 
+      "avgLow": "3.71", 
+      "date": "1-Nov", 
+      "avgHigh": "9.58"
+    }, 
+    {
+      "index": 306, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "0.84", 
+      "recHigh": "15.54", 
+      "avgLow": "5.38", 
+      "date": "2-Nov", 
+      "avgHigh": "11.13"
+    }, 
+    {
+      "index": 307, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-0.64", 
+      "recHigh": "16.42", 
+      "avgLow": "5.72", 
+      "date": "3-Nov", 
+      "avgHigh": "11.4"
+    }, 
+    {
+      "index": 308, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "1.85", 
+      "recHigh": "13.47", 
+      "avgLow": "4.16", 
+      "date": "4-Nov", 
+      "avgHigh": "9.3"
+    }, 
+    {
+      "index": 309, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "1.57", 
+      "recHigh": "18.57", 
+      "avgLow": "4.14", 
+      "date": "5-Nov", 
+      "avgHigh": "11.82"
+    }, 
+    {
+      "index": 310, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "3.74", 
+      "recHigh": "19.23", 
+      "avgLow": "7.24", 
+      "date": "6-Nov", 
+      "avgHigh": "13.23"
+    }, 
+    {
+      "index": 311, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "1.23", 
+      "recHigh": "14.95", 
+      "avgLow": "4.26", 
+      "date": "7-Nov", 
+      "avgHigh": "10.21"
+    }, 
+    {
+      "index": 312, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-1.21", 
+      "recHigh": "15.35", 
+      "avgLow": "2.44", 
+      "date": "8-Nov", 
+      "avgHigh": "8.59"
+    }, 
+    {
+      "index": 313, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "2.33", 
+      "recHigh": "14.24", 
+      "avgLow": "3.59", 
+      "date": "9-Nov", 
+      "avgHigh": "9.31"
+    }, 
+    {
+      "index": 314, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-8.36", 
+      "recHigh": "11.98", 
+      "avgLow": "0.5", 
+      "date": "10-Nov", 
+      "avgHigh": "7.82"
+    }, 
+    {
+      "index": 315, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-8.29", 
+      "recHigh": "12.59", 
+      "avgLow": "0.26", 
+      "date": "11-Nov", 
+      "avgHigh": "6.97"
+    }, 
+    {
+      "index": 316, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-2.89", 
+      "recHigh": "11.57", 
+      "avgLow": "0.98", 
+      "date": "12-Nov", 
+      "avgHigh": "6.0"
+    }, 
+    {
+      "index": 317, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-2.45", 
+      "recHigh": "10.92", 
+      "avgLow": "2.03", 
+      "date": "13-Nov", 
+      "avgHigh": "6.33"
+    }, 
+    {
+      "index": 318, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-10.04", 
+      "recHigh": "11.76", 
+      "avgLow": "-0.43", 
+      "date": "14-Nov", 
+      "avgHigh": "3.84"
+    }, 
+    {
+      "index": 319, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-8.87", 
+      "recHigh": "13.12", 
+      "avgLow": "-1.45", 
+      "date": "15-Nov", 
+      "avgHigh": "4.71"
+    }, 
+    {
+      "index": 320, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-4.85", 
+      "recHigh": "11.79", 
+      "avgLow": "1.56", 
+      "date": "16-Nov", 
+      "avgHigh": "5.84"
+    }, 
+    {
+      "index": 321, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-3.04", 
+      "recHigh": "9.07", 
+      "avgLow": "0.14", 
+      "date": "17-Nov", 
+      "avgHigh": "4.84"
+    }, 
+    {
+      "index": 322, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-6.24", 
+      "recHigh": "9.58", 
+      "avgLow": "-2.28", 
+      "date": "18-Nov", 
+      "avgHigh": "4.22"
+    }, 
+    {
+      "index": 323, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-6.81", 
+      "recHigh": "13.4", 
+      "avgLow": "-0.02", 
+      "date": "19-Nov", 
+      "avgHigh": "5.34"
+    }, 
+    {
+      "index": 324, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-6.56", 
+      "recHigh": "12.77", 
+      "avgLow": "-2.26", 
+      "date": "20-Nov", 
+      "avgHigh": "4.35"
+    }, 
+    {
+      "index": 325, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-7.95", 
+      "recHigh": "9.49", 
+      "avgLow": "-3.98", 
+      "date": "21-Nov", 
+      "avgHigh": "2.35"
+    }, 
+    {
+      "index": 326, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-15.38", 
+      "recHigh": "9.91", 
+      "avgLow": "-4.1", 
+      "date": "22-Nov", 
+      "avgHigh": "2.31"
+    }, 
+    {
+      "index": 327, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-11.68", 
+      "recHigh": "6.74", 
+      "avgLow": "-4.65", 
+      "date": "23-Nov", 
+      "avgHigh": "1.12"
+    }, 
+    {
+      "index": 328, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-5.95", 
+      "recHigh": "17.15", 
+      "avgLow": "-0.86", 
+      "date": "24-Nov", 
+      "avgHigh": "5.28"
+    }, 
+    {
+      "index": 329, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-4.14", 
+      "recHigh": "14.17", 
+      "avgLow": "1.48", 
+      "date": "25-Nov", 
+      "avgHigh": "6.3"
+    }, 
+    {
+      "index": 330, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-2.69", 
+      "recHigh": "9.48", 
+      "avgLow": "0.64", 
+      "date": "26-Nov", 
+      "avgHigh": "5.6"
+    }, 
+    {
+      "index": 331, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-7.04", 
+      "recHigh": "14.13", 
+      "avgLow": "-0.28", 
+      "date": "27-Nov", 
+      "avgHigh": "4.15"
+    }, 
+    {
+      "index": 332, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-9.13", 
+      "recHigh": "5.33", 
+      "avgLow": "-3.33", 
+      "date": "28-Nov", 
+      "avgHigh": "2.21"
+    }, 
+    {
+      "index": 333, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-6.47", 
+      "recHigh": "9.07", 
+      "avgLow": "-1.91", 
+      "date": "29-Nov", 
+      "avgHigh": "2.96"
+    }, 
+    {
+      "index": 334, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-9.12", 
+      "recHigh": "6.83", 
+      "avgLow": "-2.32", 
+      "date": "30-Nov", 
+      "avgHigh": "3.6"
+    }, 
+    {
+      "index": 335, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-4.19", 
+      "recHigh": "8.96", 
+      "avgLow": "0.45", 
+      "date": "1-Dec", 
+      "avgHigh": "4.96"
+    }, 
+    {
+      "index": 336, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-14.25", 
+      "recHigh": "5.95", 
+      "avgLow": "-1.49", 
+      "date": "2-Dec", 
+      "avgHigh": "3.7"
+    }, 
+    {
+      "index": 337, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-9.6", 
+      "recHigh": "6.4", 
+      "avgLow": "-1.07", 
+      "date": "3-Dec", 
+      "avgHigh": "4.39"
+    }, 
+    {
+      "index": 338, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-8.51", 
+      "recHigh": "5.73", 
+      "avgLow": "-2.95", 
+      "date": "4-Dec", 
+      "avgHigh": "2.97"
+    }, 
+    {
+      "index": 339, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-11.77", 
+      "recHigh": "10.49", 
+      "avgLow": "-2.58", 
+      "date": "5-Dec", 
+      "avgHigh": "1.42"
+    }, 
+    {
+      "index": 340, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-6.74", 
+      "recHigh": "10.54", 
+      "avgLow": "-1.74", 
+      "date": "6-Dec", 
+      "avgHigh": "3.48"
+    }, 
+    {
+      "index": 341, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-10.67", 
+      "recHigh": "4.62", 
+      "avgLow": "-4.22", 
+      "date": "7-Dec", 
+      "avgHigh": "2.53"
+    }, 
+    {
+      "index": 342, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-13.6", 
+      "recHigh": "4.77", 
+      "avgLow": "-5.73", 
+      "date": "8-Dec", 
+      "avgHigh": "-1.33"
+    }, 
+    {
+      "index": 343, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-8.57", 
+      "recHigh": "6.65", 
+      "avgLow": "-3.68", 
+      "date": "9-Dec", 
+      "avgHigh": "1.4"
+    }, 
+    {
+      "index": 344, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-7.71", 
+      "recHigh": "9.91", 
+      "avgLow": "-2.65", 
+      "date": "10-Dec", 
+      "avgHigh": "0.86"
+    }, 
+    {
+      "index": 345, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-11.62", 
+      "recHigh": "14.07", 
+      "avgLow": "-4.26", 
+      "date": "11-Dec", 
+      "avgHigh": "0.78"
+    }, 
+    {
+      "index": 346, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-10.4", 
+      "recHigh": "10.46", 
+      "avgLow": "-4.55", 
+      "date": "12-Dec", 
+      "avgHigh": "-1.01"
+    }, 
+    {
+      "index": 347, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-14.56", 
+      "recHigh": "5.62", 
+      "avgLow": "-7.11", 
+      "date": "13-Dec", 
+      "avgHigh": "-1.47"
+    }, 
+    {
+      "index": 348, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-17.4", 
+      "recHigh": "3.77", 
+      "avgLow": "-6.86", 
+      "date": "14-Dec", 
+      "avgHigh": "-0.83"
+    }, 
+    {
+      "index": 349, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-17.66", 
+      "recHigh": "5.86", 
+      "avgLow": "-5.74", 
+      "date": "15-Dec", 
+      "avgHigh": "-0.53"
+    }, 
+    {
+      "index": 350, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-22.29", 
+      "recHigh": "5.08", 
+      "avgLow": "-7.2", 
+      "date": "16-Dec", 
+      "avgHigh": "-3.12"
+    }, 
+    {
+      "index": 351, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-16.61", 
+      "recHigh": "8.25", 
+      "avgLow": "-6.01", 
+      "date": "17-Dec", 
+      "avgHigh": "-1.04"
+    }, 
+    {
+      "index": 352, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-13.81", 
+      "recHigh": "9.01", 
+      "avgLow": "-5.63", 
+      "date": "18-Dec", 
+      "avgHigh": "-1.06"
+    }, 
+    {
+      "index": 353, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-18.21", 
+      "recHigh": "4.43", 
+      "avgLow": "-8.74", 
+      "date": "19-Dec", 
+      "avgHigh": "-1.01"
+    }, 
+    {
+      "index": 354, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-13.4", 
+      "recHigh": "4.72", 
+      "avgLow": "-7.78", 
+      "date": "20-Dec", 
+      "avgHigh": "-0.45"
+    }, 
+    {
+      "index": 355, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-12.9", 
+      "recHigh": "7.06", 
+      "avgLow": "-5.77", 
+      "date": "21-Dec", 
+      "avgHigh": "-0.42"
+    }, 
+    {
+      "index": 356, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-15.41", 
+      "recHigh": "9.46", 
+      "avgLow": "-4.78", 
+      "date": "22-Dec", 
+      "avgHigh": "-0.04"
+    }, 
+    {
+      "index": 357, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-12.52", 
+      "recHigh": "4.42", 
+      "avgLow": "-5.13", 
+      "date": "23-Dec", 
+      "avgHigh": "0.32"
+    }, 
+    {
+      "index": 358, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-8.15", 
+      "recHigh": "17.27", 
+      "avgLow": "-1.83", 
+      "date": "24-Dec", 
+      "avgHigh": "3.36"
+    }, 
+    {
+      "index": 359, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-12.04", 
+      "recHigh": "10.01", 
+      "avgLow": "-3.35", 
+      "date": "25-Dec", 
+      "avgHigh": "2.12"
+    }, 
+    {
+      "index": 360, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-13.73", 
+      "recHigh": "6.08", 
+      "avgLow": "-6.48", 
+      "date": "26-Dec", 
+      "avgHigh": "0.37"
+    }, 
+    {
+      "index": 361, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-20.6", 
+      "recHigh": "7.36", 
+      "avgLow": "-6.18", 
+      "date": "27-Dec", 
+      "avgHigh": "-0.6"
+    }, 
+    {
+      "index": 362, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-24.85", 
+      "recHigh": "9.41", 
+      "avgLow": "-10.07", 
+      "date": "28-Dec", 
+      "avgHigh": "-0.68"
+    }, 
+    {
+      "index": 363, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-21.69", 
+      "recHigh": "9.14", 
+      "avgLow": "-11.45", 
+      "date": "29-Dec", 
+      "avgHigh": "-3.16"
+    }, 
+    {
+      "index": 364, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-19.68", 
+      "recHigh": "0.54", 
+      "avgLow": "-12.39", 
+      "date": "30-Dec", 
+      "avgHigh": "-6.89"
+    }, 
+    {
+      "index": 365, 
+      "min": 0.0, 
+      "max": 0.0, 
+      "recLow": "-20.88", 
+      "recHigh": "-0.36", 
+      "avgLow": "-11.84", 
+      "date": "31-Dec", 
+      "avgHigh": "-6.54"
+    }
+  ], 
+  "name": "Station UQAM 2019"
+}

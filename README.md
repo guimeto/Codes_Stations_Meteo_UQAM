@@ -14,7 +14,13 @@ Ensemble de codes travaillant sur la station météorologique de l'UQAM
 <col width="57%">
 </colgroup>
 <tbody valign="top">
-
+<tr>
+    <th>Script</th>
+    <th>Description</th> 
+    <th>Input</th>
+    <th>Output</th>
+ </tr>
+	
 <tr><td><tt class="docutils literal"><span class="pre">Create_CSV_today.py</span></tt></td>
 <td> Script pour extraire les données toutes les heures de la station et alimenter le <a href="http://station.escer.uqam.ca/visualisation/meteogramme/">meteogram</a> </td>
 <td> Database </td> 

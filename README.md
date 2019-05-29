@@ -3,7 +3,44 @@ Ensemble de codes travaillant sur la station météorologique de l'UQAM
 
 <b>Preparation_DataBase :</b> Ensemble des scripts python utilisés pour préparer la base de données de la station météorologique de l’UQAM. 
 
+<table border="1" class="docutils">
+<colgroup>
+<col width="27%">
+<col width="57%">
+</colgroup>
+<tbody valign="top">
+<tr>
+    <th>Script</th>
+    <th>Description</th> 
+</tr>	
+	
+<tr><td><tt class="docutils literal"><span class="pre">main.py</span></tt></td>
+<td>Importe toutes les méthodes à utiliser de stationlib et appelle la première méthode recup()</td>
+</tr>
+<tr><td><tt class="docutils literal"><span class="pre">recup.py</span></tt></td>
+<td>Récupère les données du datalogger par FTP et écrit ces données dans un fichier local temporaire. Appelle de lectureDir()</td>
+</tr>
+<tr><td><tt class="docutils literal"><span class="pre">lireFichier.py</span></tt></td>
+<td>Lit le fichier pointé par filename, extrait les données dans un tuple, regarde selon la date si le dossier  
+où stocker ces données existe, les crée au besoin, puis appelle ecrireFichier() en passant la liste de données à écrire et le path
+</td>
+</tr>
+<tr><td><tt class="docutils literal"><span class="pre">ecrireFichier.py</span></tt></td>
+<td>Ecrit les données de data dans un fichier html pointé par le path.
+</td>
+</tr>
+<tr><td><tt class="docutils literal"><span class="pre">lectureDir.py</span></tt></td>
+<td>Appelle lireFichier() sur chacun des fichiers temporaires présents dans le répertoire désigné.
+</td>
+</tr>
+<tr><td><tt class="docutils literal"><span class="pre">bd.py</span></tt></td>
+<td>Ecriture des données dans la base de données SQL
+</td>
+</tr>
 
+
+</tbody>
+</table>
 
 <b>Codes_Preparation_Site_Web:</b> Ensemble des scripts python utilisés pour préparer les données qui seront visualisées par le site de la station
 

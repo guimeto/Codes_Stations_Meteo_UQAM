@@ -35,7 +35,7 @@ end_utc=end_local+td(hours=delta_h)
 
 # open a database connection
 # be sure to change the host IP address, username, password and database name to match your own
-cnx = mysql.connector.connect(host = '132.208.132.40', database = 'BD_labostation__enquete', user = 'station', password = 'reli39,cao')
+cnx = mysql.connector.connect(host = 'XXX.XXX.XXX.XX', database = 'BD_labostation__enquete', user = 'station', password = 'passwd')
 
 # prepare a cursor object using cursor() method
 cursor = cnx.cursor ()

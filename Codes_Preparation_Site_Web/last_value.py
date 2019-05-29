@@ -7,7 +7,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 #ouverture de la connexion du serveur sql
-cnx = mysql.connector.connect(host = '132.208.132.40', database = 'BD_labostation__enquete', user = 'station', password = 'reli39,cao')
+cnx = mysql.connector.connect(host = 'XXX.XXX.XXX.XX', database = 'BD_labostation__enquete', user = 'station', password = 'passwd')
 
 
 ############## Partie a modififer 

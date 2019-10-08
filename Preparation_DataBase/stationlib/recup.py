@@ -11,7 +11,7 @@ from .lireFichier import lireFichier
 from .variables import path
 def recup():
 	#Connexion au dataLogger via FTP et récupération des données à écrire dans un fichier.csv temporaire
-	ftp = FTP('XXX.XXX.XXX.XX', 'name', 'passwd')
+	ftp = FTP('132.208.140.40', 'station', 'reli39,cao')
 	ftp.cwd('/USR')
 	filename = 'stationData.csv'
 	ftp.dir()

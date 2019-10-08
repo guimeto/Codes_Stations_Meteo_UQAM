@@ -9,7 +9,5 @@ def bd(releveMeteoQuery):
 #Création d'un curseur et exécution de la requête SQL passée en paramètre
 	cursor = cnx.cursor ()
 	cursor.execute(releveMeteoQuery)
-        cnx.commit()
 	cursor.close ()
-        
     

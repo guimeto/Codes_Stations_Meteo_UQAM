@@ -1,0 +1,10 @@
+#! /bin/sh
+set -eax
+# 
+# By Guillaume Dueymes 
+# Script to append stationData.csv to new file
+# 
+#/////////////
+
+
+cat stationData.csv >>  list_station_Data.csv

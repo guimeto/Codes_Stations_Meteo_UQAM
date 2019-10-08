@@ -15,7 +15,7 @@ from .ecrireFichier import ecrireFichier
 def lireFichier(filename):
 	#Ouverture du fichier csv précédemment créé et extraction des données dans un tuple
 	try:
-		data = codecs.open('stationData.csv')
+		data = codecs.open(filename)
 		reader=csv.reader(data)
 		dataTuple=tuple(next(reader))
 		data.close()
@@ -70,11 +70,11 @@ def lireFichier(filename):
 	#"Explicit is better than Implicit" The Zen of Python 2nd aphorism
 	"""
 	#conversion de la date en jours julien->date standard
-	julianDate = str(dataTuple[1])+str(dataTuple[2])+str(dataTuple[3]).zfill(4)
+	julianDate = str(dataTuple[1])+str(dataTuple[2])+str(dataTuple[3])
 	date = datetime.datetime.strptime(julianDate,'%Y%j%H%M')
 
 
-	dirPath="/NFS2_RESCUE2/stationuqam/programmes/recup_donnees_station/data_brute/"+date.strftime('%Y%m')
+	dirPath="/NFS2_RESCUE2/stationuqam/programmes/recup_donnees_2/data_brute/"+date.strftime('%Y%m')
 
 	#sélection des données à stocker dans la base de données
 	usefulData=(date, dirPath, dataTuple[10], dataTuple[8], dataTuple[9], dataTuple[12], dataTuple[11], dataTuple[23], dataTuple[25]
